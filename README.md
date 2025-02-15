@@ -1,0 +1,2 @@
+# ScreenSaver
+Automatized screenshot taker
